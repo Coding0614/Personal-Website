@@ -1,0 +1,40 @@
+body {
+    text-align: center; 
+}
+#Apps {
+    width: 100%;
+    height: 800px;
+    background-color: cornflowerblue;
+}
+.line {
+    height: 6px;
+    background-color: darksalmon;
+    width: 70px;
+    margin: 8px auto;
+}
+#Games {
+    width: 100%;
+    height: 800px;
+    background-color: aqua;
+}
+img {
+    transition: transform .2s;
+}
+img:hover {
+    transform: scale(0.9);
+}
+#ChatBots {
+    width: 100%;
+    height: 800px;
+    background-color: chartreuse;
+}
+#mycarousel {
+    background-color:forestgreen;
+}
+#myroundabout {
+    background-color: indianred;
+}
+#myroundabout img {
+    height: 300px;
+    margin-top: 35px;
+}
